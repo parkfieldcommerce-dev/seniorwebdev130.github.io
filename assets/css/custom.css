@@ -1,0 +1,12 @@
+.hero-text-content{
+    text-align: center;
+}
+.hero-text-content h4.sub-title{
+    font-size: 45px;
+}
+.hero-text-content h1.title{
+    font-size: 75px;
+}
+.hero-text-content p{
+    font-size: 20px;
+}
